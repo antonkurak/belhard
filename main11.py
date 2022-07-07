@@ -6,4 +6,4 @@ def counter(text_1: str, text_2: str) -> int:
             count_equal_letters += 1
     return count_equal_letters
 
-print(counter("qwerty", "qweviop"))
+print(counter("qwerty", "qweuiop"))

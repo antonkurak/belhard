@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="711604a4-af63-4d13-9658-5bea5506b04d" name="Changes" comment="practise">
-      <change afterPath="$PROJECT_DIR$/main10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main13.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main9.py" beforeDir="false" afterPath="$PROJECT_DIR$/main9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main11.py" beforeDir="false" afterPath="$PROJECT_DIR$/main11.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +50,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.main12">
+  <component name="RunManager" selected="Python.main11">
     <configuration name="main10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="belhard" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,8 +158,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main12" />
         <item itemvalue="Python.main11" />
+        <item itemvalue="Python.main12" />
         <item itemvalue="Python.main10" />
         <item itemvalue="Python.main8" />
         <item itemvalue="Python.main7" />
@@ -212,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656582621297</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="practise">
+      <created>1657181513008</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657181513008</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
